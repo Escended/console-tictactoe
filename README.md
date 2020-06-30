@@ -1,3 +1,3 @@
 # console tictactoe
  
-Pays tictactoe in the console. X always starts. 
+Plays tictactoe in the console. X always starts. 
